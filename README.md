@@ -11,7 +11,7 @@ In this activity we're going to create an application that translates regular En
 - If the first consonants include "qu", move the "u" along with the "q". Don't forget about words like "squeal" where "qu" doesn't come first!
 - "y" is treated like a vowel in appropriate circumstances.
 
-There are many [examples](http://funtranslations.com/pig-latin) of Pig Latin translators out there on the internet to give you inspiration.
+There are many [examples](w) of Pig Latin translators out there on the internet to give you inspiration.
 
 ### ▶️ Getting started
 
